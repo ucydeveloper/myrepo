@@ -1,3 +1,18 @@
-# Hello World!!
+---
+layout: default
+---
 
-Hello All
+![avatar](avatar.jpg)
+
+# Moly
+
+- - -
+The to-do list
+- - -
+
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+- - -
